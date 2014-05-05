@@ -2,4 +2,4 @@ name: simple_regexp
 version: 0.1.6
 author: Graciliano Monteiro Passos <gracilianomp@gmail.com>
 description: A simple way to use regexp in Dart.
-homepage: http://pub.dartlang.org/packages/simple_regexp
+homepage: https://github.com/UpLibs/simple_regexp
